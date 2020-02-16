@@ -1,7 +1,7 @@
 # My first discord bot
 ## Using python
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
-  <img src="https://cdn.auth0.com/blog/python-restful/logo.png" alt="python" width="150">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gratispng.com%2Fpng-hwuux5%2F&psig=AOvVaw0aKS6ZHa-04VJ96ma9fobJ&ust=1581899205686000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiQrZKQ1ecCFQAAAAAdAAAAABAD" alt="python" width="150">
 
   <img src="https://i.imgur.com/ZOKp8LH.png" alt="discord" width="150">
   
