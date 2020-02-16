@@ -1,7 +1,7 @@
 # My first discord bot
 ## Using python
 <p align="center" style="display: flex; align-items: center; justify-content: space-around">
-  <img src="https://img2.gratispng.com/20180402/ioq/kisspng-python-logo-clojure-javascript-9-5ac25c2686ca38.9179638515226870145521.jpg" alt="python" width="150">
+  <img src="https://teeltechcanada.com/2015/wp-content/uploads/2017/06/Python-Logo-PNG-Image.png" alt="python" width="150">
 
   <img src="https://i.imgur.com/ZOKp8LH.png" alt="discord" width="150">
   
